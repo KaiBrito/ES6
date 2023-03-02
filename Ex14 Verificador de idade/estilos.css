@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(102, 133, 233);
+    font: normal 15pt Comic Sans MS;
+    color: rgb(5, 5, 5);
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: rgb(230, 234, 240);
+    border-radius: 15px;
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px ;
+}
+
+#imagem {
+    width: 50%;
+    border-radius: 50%;
+}
+
+div {
+    text-align: left;
+    padding: 8px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
